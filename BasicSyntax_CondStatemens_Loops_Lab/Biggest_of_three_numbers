@@ -1,3 +1,5 @@
+# Checks for biggest number out of three.
+
 a = int(input())
 b = int(input())
 c = int(input())
