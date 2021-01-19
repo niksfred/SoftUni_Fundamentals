@@ -4,4 +4,7 @@ a = int(input())
 b = int(input())
 c = int(input())
 
+#try git
+varka2  = 5
+
 print(max(a, b, c))
