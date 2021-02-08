@@ -12,3 +12,4 @@ for i in range(len(line_list)-1, -1, -1):
     if word not in element:
         line_list.remove(element)
 print(line_list)
+ 
