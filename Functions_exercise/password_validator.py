@@ -1,0 +1,2 @@
+def validator(password):
+    
