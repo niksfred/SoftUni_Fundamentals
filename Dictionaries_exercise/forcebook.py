@@ -17,7 +17,6 @@ while not data == "Lumpawaroo":
             book[side].append(user)
             print(f"{user} joins the {side} side!" )
         elif user in book.values():
-            
+            pass
 
-    
     data = input()

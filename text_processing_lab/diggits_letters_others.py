@@ -18,5 +18,5 @@ for char in str:
     if not char.isdigit() and not char.isalpha():
         result += char
 print(result)
-result = ""  
+
 
